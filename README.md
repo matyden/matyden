@@ -2,7 +2,7 @@
 
 ## My achivements:
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1694aa2b-8b6a-4732-bf5b-83c1557dae6a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<img width="348" height="348" alt="it-specialist-python (1)" src="https://github.com/user-attachments/assets/4585f496-5c76-42c3-9755-d031a7fb2f62" />
 
 <!--
 **matyden/matyden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
