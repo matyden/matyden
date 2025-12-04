@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Den!
 
-##My achivements:
+## My achivements:
 
 <img width="348" height="348" alt="it-specialist-python (1)" src="https://github.com/user-attachments/assets/4585f496-5c76-42c3-9755-d031a7fb2f62" />
 
